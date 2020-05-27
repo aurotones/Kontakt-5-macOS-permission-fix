@@ -3,7 +3,8 @@
 If your installed library disappears after relaunching Kontakt 5. This command will help you resolve that.
 
 ## Last tested on
-`10.15.5 (19F96)`
+* macOS Catalina 10.15.5 (19F96)
+* FL Studio v20.7
 
 ## Instruction
 Launch `fix-kontakt.command` with terminal and enter your macOS password.<br>
